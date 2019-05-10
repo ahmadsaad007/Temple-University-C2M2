@@ -1,6 +1,8 @@
 # Temple-University-C2M2
 Traffic flow modeling and simulation: Robotic Car Following
 
+Supervisor: Dr. Benjamin Seibold
+
 TwoSensorSolutionWithFrontSteering.py (this file exists as Car_Steering.py on the SD card) : PD Control Solution With Front Wheel Steering and employing a Differential for distributing motor speed to the back wheels.
 
 TwoSensorDifferentialDrive.py (this file exists as Saad_Steering.py on the SD card) : P Controller Solution with a Differential Drive System.
